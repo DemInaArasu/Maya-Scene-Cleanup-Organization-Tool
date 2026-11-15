@@ -1,0 +1,5 @@
+GitHub Repository URL: [https://github.com/DemInaArasu/Maya-Scene-Cleanup-Organization-Tool.git]
+
+Maya Scene Cleanup & Organization Tool is a desktop utility for modeling and animation artists working in Autodesk Maya. It helps users identify common scene issues, such as repeated short object names, empty transform groups, nondefault transforms, and objects with construction history. The tool uses Python, Maya commands, and a PySide2-based graphical user interface (with a PySide6 fallback for newer Maya versions) to make scene maintenance more convenient.
+
+Artists can inspect a scene through the Analyze tab, export a text report, preview and apply selected cleanup operations, batch rename mesh transforms with custom prefixes and numbering, and organize selected objects into a new group hierarchy. The interface includes change previews, undoable operations, basic safeguards for rigged or referenced objects, status messages, and a log of results. It is intended to reduce repetitive tasks and help artists keep their Maya scenes easier to navigate and manage.
