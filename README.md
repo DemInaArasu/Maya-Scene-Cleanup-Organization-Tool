@@ -1,1 +1,0 @@
-# Maya-Scene-Cleanup-Organization-Tool
