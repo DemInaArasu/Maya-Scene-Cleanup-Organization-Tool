@@ -1,18 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-P02 Maya Scene Cleanup & Organization Tool
-Brenda Arras | Python + Maya cmds + PySide2 (PySide6 fallback for Maya 2025+)
 
-RUN INSIDE MAYA'S PYTHON SCRIPT EDITOR:
-
-    import sys
-    sys.path.insert(0, r"C:\Users\bca240000\Documents\arras_BrendaC_P02_UtilityTool\Maya-Scene-Cleanup-Organization-Tool")
-    import ArrasBrenda_P02_code as p02
-    p02.show_tool()
-
-Safety: Save a backup scene first. Cleanup and hierarchy actions can affect
-rigged assets and animation. Review the preview and use Maya Undo if needed.
-"""
 
 import collections
 import contextlib
