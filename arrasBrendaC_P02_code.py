@@ -6,7 +6,7 @@ Brenda Arras | Python + Maya cmds + PySide2 (PySide6 fallback for Maya 2025+)
 RUN INSIDE MAYA'S PYTHON SCRIPT EDITOR:
 
     import sys
-    sys.path.insert(0, r"C:\Users\bca240000\Documents\arras_BrendaC_PO2_UtilityTool\Maya-Scene-Cleanup-Organization-Tool")
+    sys.path.insert(0, r"C:\Users\bca240000\Documents\arras_BrendaC_P02_UtilityTool\Maya-Scene-Cleanup-Organization-Tool")
     import ArrasBrenda_P02_code as p02
     p02.show_tool()
 
